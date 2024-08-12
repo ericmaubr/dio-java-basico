@@ -1,2 +1,3 @@
 # dio-java-basico
-Curso de Java Básico da DIO
+
+Repositório do curso de Java Básico da DIO
