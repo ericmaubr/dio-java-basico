@@ -1,0 +1,55 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "TiposVariaveis",
+      "request": "launch",
+      "mainClass": "TiposVariaveis",
+      "projectName": "java-anatomia-classes_cf69c1e5"
+    },
+    {
+      "type": "java",
+      "name": "Usuario",
+      "request": "launch",
+      "mainClass": "Usuario",
+      "projectName": "java-anatomia-classes_cf69c1e5"
+    },
+    {
+      "type": "java",
+      "name": "MinhaClasse",
+      "request": "launch",
+      "mainClass": "com.ericmau.primeirasemana.MinhaClasse",
+      "projectName": "java-anatomia-classes_cf69c1e5"
+    },
+    {
+      "type": "java",
+      "name": "SegundaClasse",
+      "request": "launch",
+      "mainClass": "com.ericmau.segundasemana.SegundaClasse",
+      "projectName": "java-anatomia-classes_cf69c1e5"
+    },
+    {
+      "type": "java",
+      "name": "AboutMe",
+      "request": "launch",
+      "mainClass": "AboutMe",
+      //"projectName": "java-anatomia-classes_cf69c1e5",
+      "args": [
+        "Eric",
+        "Mauricio",
+        "47",
+        "1.68"
+      ]
+    },
+  ]
+}
