@@ -4,7 +4,7 @@ Esse é o projeto para resolução do desafio de Controle de Fluxo (https://gith
 
 Utilizei a ferramenta Mermaid para a criação do Diagrama UML.
 
-Segue a resolução do desafio
+Segue a resolução do desafio.
 
 ### Link direto do site do Mermaid
 
