@@ -58,8 +58,6 @@ Utilizei a classe Scanner para fazer a leitura da entrada.
 
 Segue o menu apresentado para o usuário
 
----
-
 Escolha a ação do iPhone
 1 - Tocar música
 2 - Pausar música
@@ -71,5 +69,3 @@ Escolha a ação do iPhone
 8 - Adicionar nova aba no navegador
 9 - Atualizar página do navegador
 X - Sair do programa
-
----
